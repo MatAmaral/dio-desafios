@@ -10,6 +10,10 @@ Run:
 make
 ```
 ```
+wget https://data.pjreddie.com/files/yolov3.weights
+```
+
+```
 ./darknet detect cfg/yolov3.cfg yolov3.weights
 ```
 It's going to ask you which image load, and then create the prediction boxes in the predictions.jpg
