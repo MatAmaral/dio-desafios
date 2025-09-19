@@ -5,5 +5,11 @@
 */tensorflow_hub/
 tf217.ipynb
 *.Identifier
+*.csv
 aula.*
+aula/
 */yolov3.weights
+kaggle.json
+fashion-product-images-small/
+images/
+myntradataset/
